@@ -1,0 +1,2 @@
+class Hi:
+    f = "ff"
