@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# dlib model (download it, see README)
+shape_predictor_68_face_landmarks.dat
+shape_predictor_68_face_landmarks.dat.bz2
+
+# Recorded performances and test media
+outfile
+*.mov
+*.mp4
